@@ -1,0 +1,17 @@
+# Environment
+.env
+
+# Dependencies (Composer)
+vendor/
+
+# Logs
+logs/
+*.log
+
+# SQLite database files
+*.sqlite
+*.sqlite3
+
+# OS/system files
+.DS_Store
+Thumbs.db
